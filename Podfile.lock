@@ -11,7 +11,7 @@ DEPENDENCIES:
   - YYImage
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - SDWebImage
     - YYImage
 
@@ -19,6 +19,6 @@ SPEC CHECKSUMS:
   SDWebImage: fb387001955223213dde14bc08c8b73f371f8d8f
   YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
 
-PODFILE CHECKSUM: 7d28b9ae8c240bc994d951954252612eb02203f4
+PODFILE CHECKSUM: 3cec40ea6ca48c69a9a44a313dabec75577d3559
 
-COCOAPODS: 1.7.2
+COCOAPODS: 1.12.1
